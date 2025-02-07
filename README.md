@@ -6,3 +6,5 @@ This is learning process reflecting every step taken, and providing reference pl
 ## INTRODUCTION
 
 This project provides basic insight for beginners in Microsoft Excel, creating a sort of leverage to ease Data cleaning | Analysing & Visualization
+
+![](OIP1.jpeg)
